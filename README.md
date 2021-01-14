@@ -6,7 +6,7 @@
 
 **🐤i'm trying to get better at solving algorithms.**
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wintersnow)](https://solved.ac/profile/wintersnow)
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wintersnow&cache=c)](https://solved.ac/profile/wintersnow)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehui-byte&layout=compact&hide=csharp)
