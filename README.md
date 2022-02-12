@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsehui-byte&count_bg=%237400F5&title_bg=%23555555&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-grey?logo=kakao)](https://coffee-and-coding.tistory.com/)
 
-<p align="left">
+<!-- <p align="left">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&?style=plastic&logo=Java&logoColor=white"/>  
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&?style=plastic&logo=appveyor&logo=Spring&logoColor=white"/> 
 <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=plastic&logo=Spring Boot&logoColor=white"/>
@@ -12,7 +12,7 @@
 <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=plastic&logo=GitLab&logoColor=white"/>
 <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=plastic&logo=IntelliJ IDEA&logoColor=white"/>
 <p align="left">
-
+ -->
 
 **🌱I'm current learning Web Programming.**
 
