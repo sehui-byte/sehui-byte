@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsehui-byte&count_bg=%237400F5&title_bg=%23555555&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-grey?logo=kakao)](https://coffee-and-coding.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsehui-byte&count_bg=%237400F5&title_bg=%23555555&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-grey?logo=kakao)](https://coffee-and-coding.tistory.com/) -->
 
 <!-- <p align="left">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&?style=plastic&logo=Java&logoColor=white"/>  
